@@ -1,6 +1,6 @@
 ## Faaalaaa!! meu nome é João Victor 👋
 
-  Tenho 16 anos sou de Itaepva SP e estou estudando na escola SESI CE399 
+  Tenho 16 anos sou de Itapeva SP e estou estudando na escola SESI CE399 
 - 🌱 Hoje eu estou estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contato no email: jvictorsenai095@gmail.com
 - 😄 Pronoumes: Ele/Dele
