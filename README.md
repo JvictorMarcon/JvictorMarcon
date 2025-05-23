@@ -12,7 +12,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/JvictorMarcon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/jgarrudaa?tab=followers">
+    <a href="https://github.com/JvictorMarcon?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
