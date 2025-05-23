@@ -4,6 +4,7 @@
 - 🌱 Hoje eu estou estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contato no email: jvictorsenai095@gmail.com
 - 😄 Pronoumes: Ele/Dele
+- 🗣️Idiomas: Português BR/Inglês
   
     <a href="https://github.com/jJvictorMarcon?tab=repositories&sort=stargazers">
         <img 
