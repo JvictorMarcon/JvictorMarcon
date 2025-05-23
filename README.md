@@ -5,11 +5,11 @@
 - 📫 Contato no email: jvictorsenai095@gmail.com
 - 😄 Pronoumes: Ele/Dele
   
-    <a href="https://github.com/jgarrudaa?tab=repositories&sort=stargazers">
+    <a href="https://github.com/jJvictorMarcon?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/jgarrudaa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/JvictorMarcon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/jgarrudaa?tab=followers">
