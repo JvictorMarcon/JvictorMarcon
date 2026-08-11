@@ -1,41 +1,46 @@
-## Faaalaaa!! meu nome é João Victor 👋
+# Olá, eu sou o João Victor! 👋
 
-  Tenho 18 anos sou de Itapeva SP e estou estudando na escola SESI CE399 
-- 🌱 Hoje eu estou estudando Análise e Desenvolvimento de Sistemas
-- 📫 Contato no email: jvictorsenai095@gmail.com
-- 😄 Pronomes: Ele/Dele
-- 🗣️Idiomas: Português BR/Inglês
-  
-    <a href="https://github.com/jJvictorMarcon?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JvictorMarcon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/JvictorMarcon?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JvictorMarcon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+Estudante de **Análise e Desenvolvimento de Sistemas** no SESI CE399, apaixonado por tecnologia e em constante aprendizado.
 
-  <div>
-    <a href="https://github.com/JvictorMarcon">
-      <img height="180px" scr="https://github-readme-stats.vercel.app/api?username=JvictorMarcon&show_icons-true&theme=dracula&includeallcommits=true&count_private=true"/>
-      
-      
-  </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+---
 
+### 🚀 Sobre mim
+- 📍 Itapeva, SP
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🗣️ Idiomas: Português (Nativo), Inglês (Intermediário)
+-  pronouns: Ele/Dele
+
+---
+
+### 🛠️ Tecnologias
+Aqui estão as tecnologias com as quais venho trabalhando e estudando:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
 </div>
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jvictor_marcon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "jvictorsenai095@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
+
+---
+
+### 📬 Contato
+<div align="center">
+  <a href="mailto:jvictorsenai095@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/jvictor_marcon/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <!-- Adicione seus links de YouTube ou Discord aqui se desejar -->
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarcon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</div>
