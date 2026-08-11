@@ -39,7 +39,9 @@ Aqui estão as tecnologias com as quais venho trabalhando e estudando:
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Meus Repositórios
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarcon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=BB86FC&text_color=FFFFFF&bg_color=1F1F1F" alt="Estatísticas do GitHub" />
+  <a href="https://github.com/JvictorMarcon?tab=repositories">
+    <img src="https://img.shields.io/badge/Acessar%20Repositórios%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios GitHub" />
+  </a>
 </div>
