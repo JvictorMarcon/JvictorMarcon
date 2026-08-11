@@ -7,7 +7,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no SESI CE399, apaixonad
 ### 🚀 Sobre mim
 - 📍 Itapeva, SP
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🗣️ Idiomas: Português (Nativo), Inglês (Intermediário)
+- 🗣️ Idiomas: Português (Nativo), Inglês (Fluente)
 - Pronomes: Ele/Dele
 
 ---
@@ -41,5 +41,5 @@ Aqui estão as tecnologias com as quais venho trabalhando e estudando:
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarcon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&langs_count=7" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarcon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=BB86FC&text_color=FFFFFF&bg_color=1F1F1F" alt="Estatísticas do GitHub" />
 </div>
