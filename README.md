@@ -8,7 +8,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no SESI CE399, apaixonad
 - 📍 Itapeva, SP
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🗣️ Idiomas: Português (Nativo), Inglês (Intermediário)
--  pronouns: Ele/Dele
+- Pronomes: Ele/Dele
 
 ---
 
@@ -21,7 +21,7 @@ Aqui estão as tecnologias com as quais venho trabalhando e estudando:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
 </div>
 
@@ -35,12 +35,11 @@ Aqui estão as tecnologias com as quais venho trabalhando e estudando:
   <a href="https://www.instagram.com/jvictor_marcon/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- Adicione seus links de YouTube ou Discord aqui se desejar -->
 </div>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarcon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JvictorMarcon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&langs_count=7" alt="Estatísticas do GitHub" />
 </div>
